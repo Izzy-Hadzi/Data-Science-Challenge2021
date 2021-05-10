@@ -13,7 +13,7 @@ The calculation is technically correct, however just by glancing at the data it 
 
 b.	What metric would you report for this dataset?
 
-I metric I would report would be the mean of the interquartile range. Interquartile range describes the middle 50% of values when ordered from lowest to highest, and considering the higher outliers in this dataset, the mean of this range would provide a more realistic idea of the average order value.
+The metric I would report would be the mean of the interquartile range. Interquartile range describes the middle 50% of values when ordered from lowest to highest, and considering the higher outliers in this dataset, the mean of this range would provide a more realistic idea of the average order value.
 
 c.	What is its value?
 
